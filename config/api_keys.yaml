@@ -1,8 +1,0 @@
-# Get from https://birdeye.so/developers
-birdeye: "your_birdeye_api_key_here"  
-
-# Get from https://jito.network/
-jito: "your_jito_api_key_here"  
-
-# Get from https://dexscreener.com/
-dex_screener: "your_dexscreener_api_key_here"
