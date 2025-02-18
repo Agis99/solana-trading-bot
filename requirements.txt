@@ -1,5 +1,0 @@
-solders==0.18.0
-solana==0.29.0
-tensorflow==2.15.0
-aiohttp==3.9.3
-python-dotenv==1.0.0
