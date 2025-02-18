@@ -1,4 +1,4 @@
-solders>=0.14.0,<0.15.0  # Compatible with solana 0.29.0
+solders==0.14.0  # Specific version for solana 0.29.0 compatibility
 solana==0.29.0
 tensorflow==2.15.0
 aiohttp==3.9.3
